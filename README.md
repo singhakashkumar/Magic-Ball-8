@@ -1,3 +1,4 @@
+# [![HitCount](http://hits.dwyl.com/singhakashkumar/Magic-Ball-8.svg)](http://hits.dwyl.com/singhakashkumar/Magic-Ball-8)
 # App Challenge 4
 # Magic 8 Ball 🎱
 
